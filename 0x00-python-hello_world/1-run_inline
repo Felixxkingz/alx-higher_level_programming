@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 print('hello world') "$PYCODE"
+python3 felix "$PYCODE"
